@@ -1,1 +1,0 @@
-To know how stage works.
